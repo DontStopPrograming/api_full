@@ -1,2 +1,2 @@
-# api_full
+# Api Full
 Small FullStack Project Implementing REST API Using Modern Technologies; React.js, Node.js, Vite and required packages
